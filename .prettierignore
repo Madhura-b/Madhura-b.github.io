@@ -2,4 +2,6 @@ src/serviceWorker.js
 package-lock.json
 src/assets/lottie
 src/portfolio.js
+src/components/header/Header.css
+src/containers/projects/Projects.js
 
