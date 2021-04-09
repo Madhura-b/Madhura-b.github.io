@@ -1,6 +1,6 @@
 .profile-image {
   border-radius: 50%;
-  border: 0.5rem solid #6c63ff;
+  border: 0.5rem solid #112d4e;
   margin-left: auto;
   width: 100%;
   max-width: 350px;
@@ -53,7 +53,8 @@
 }
 
 .subTitle {
-  color: #868e96;
+  color: #112d4e;
+  ;
 }
 
 @media (max-width: 768px) {

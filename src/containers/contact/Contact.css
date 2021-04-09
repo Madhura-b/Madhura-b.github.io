@@ -20,7 +20,7 @@
   margin-top: 20px;
   font-size: 40px;
   font-weight: 400;
-  color: #868e96;
+  color: #112d4e;
   text-decoration: none;
 }
 
@@ -33,6 +33,7 @@
 
 .contact-subtitle {
   text-transform: uppercase;
+  color: #112d4e;
 }
 
 .contact-text-div {

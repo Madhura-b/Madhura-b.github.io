@@ -9,7 +9,7 @@ export default function GithubProfileCard({prof}) {
   if (prof.hireable === true) {
     prof.hireable = "Yes";
   } else {
-    prof.hireable = "No";
+    prof.hireable = "Yes";
   }
   return (
     <Fade bottom duration={1000} distance="20px">
@@ -20,7 +20,7 @@ export default function GithubProfileCard({prof}) {
             <div className="blog-header">
               <p className="subTitle blog-subtitle">{contactInfo.subtitle}</p>
             </div>
-            <h2 className="bio-text">"{emoji(String(prof.bio))}"</h2>
+            {/* <h2 className="bio-text">"{emoji(String(prof.bio))}"</h2> */}
             {prof.location !== null && (
               <div className="location-div">
                 <span className="desc-prof">
@@ -38,6 +38,7 @@ export default function GithubProfileCard({prof}) {
                   </svg>
                   {prof.location}
                 </span>
+                  <p>{contactInfo.number}</p>
               </div>
             )}
             <div className="opp-div">

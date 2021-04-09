@@ -8,7 +8,7 @@
   text-transform: uppercase;
   margin: 0px;
   margin-bottom: 50px;
-}
+} 
 .subTitle {
   color: #868e96;
 }
@@ -25,7 +25,7 @@
     text-align: center;
   }
   .achievement-subtitle {
-    font-size: 16px;
+    font-size: 14px;
     line-height: normal;
     text-align: center;
   }
