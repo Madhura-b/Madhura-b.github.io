@@ -101,6 +101,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-python"
     },
     {
+      skillName: "Java",
+      fontAwesomeClassname: "fab fa-java"
+    },
+    {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
     }

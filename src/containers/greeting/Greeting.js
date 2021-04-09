@@ -2,11 +2,10 @@ import React, {useContext} from "react";
 import {Fade} from "react-reveal";
 import emoji from "react-easy-emoji";
 import "./Greeting.css";
-import landingPerson from "../../assets/lottie/landingPerson";
-import nameGreeting from "../../assets/lottie/name";
+
 import DisplayLottie from "../../components/displayLottie/DisplayLottie";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
-import DeveloperLottie from "../../assets/lottie/designer";
+import DeveloperLottie from "../../assets/lottie/intro";
 import Button from "../../components/button/Button";
 
 import {illustration, greeting} from "../../portfolio";
