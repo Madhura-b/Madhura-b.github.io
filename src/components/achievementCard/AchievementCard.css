@@ -21,6 +21,7 @@
   padding: 1.5rem;
   border-radius: 10px;
   border: 1px solid rgba(211, 211, 211, 0.397);
+  box-shadow: #112d4e 2px 20px 30px -10px;
   -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
@@ -32,7 +33,7 @@
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px -10px;
 }
 .dark-mode.certificate-card:hover {
-  box-shadow: #112d4e 0px 20px 30px -10px;
+  box-shadow: #112d4e 5px 30px 40px -20px;
 }
 .certificate-image-div {
   position: relative;
@@ -44,6 +45,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1rem 1rem;
+  margin-bottom: 10rem;
 }
 .certificate-card-footer {
   display: flex;

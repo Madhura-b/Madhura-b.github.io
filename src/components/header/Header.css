@@ -11,6 +11,7 @@
 
 .dark-menu li a:hover {
   background-color: #d6e6f2 !important;
+  border-radius: 10px;
 }
 
 .header {

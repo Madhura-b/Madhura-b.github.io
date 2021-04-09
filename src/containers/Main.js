@@ -7,7 +7,7 @@ import WorkExperience from "./workExperience/WorkExperience";
 import Projects from "./projects/Projects";
 import StartupProject from "./StartupProjects/StartupProject";
 import Achievement from "./achievement/Achievement";
-// import Blogs from "./blogs/Blogs";
+import Blogs from "./blogs/Blogs";
 import Footer from "../components/footer/Footer";
 // import Talks from "./talks/Talks";
 // import Podcast from "./podcast/Podcast";
@@ -50,12 +50,15 @@ export default class Main extends Component {
           <Skills />
           <StackProgress />
           <Education />
-          <WorkExperience />
-          <Projects />
-          <StartupProject />
-          <Achievement />
-          {/* <Blogs /> */}
+           <Blogs />
+          {/* <Projects /> */}
+          {/* <StartupProject /> */}
           {/* <Talks /> */}
+          <WorkExperience />
+          
+          <Achievement />
+         
+          
           {/* <Twitter /> */}
           {/* <Podcast /> */}
           <Profile />
