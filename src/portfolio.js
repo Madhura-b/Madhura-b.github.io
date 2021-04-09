@@ -5,6 +5,8 @@
 import emoji from "react-easy-emoji";
 import logoImg from "./assets/images/uflLogo.png";
 import vtuImg from "./assets/images/vtu.jpg";
+import infLogo from "./assets/images/infrrdLogo.png";
+import twitterLogo from "./assets/images/twitter.png";
 
 const illustration = {
   animated: true // set to false to use static SVG
@@ -122,7 +124,7 @@ const educationInfo = {
       schoolName: "Visvesvaraya Technological University",
       logo: vtuImg,
       subHeader: "Bachelor of Science in Computer Science",
-      duration: "August 2014 - July 201",
+      duration: "August 2014 - July 2018",
       desc:
         "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       descBullets: ["Relevant Courses: Data Structures, Object Oriented Programming, Database Management System, Programming the Web,Unix and Shell Programming"]
@@ -137,15 +139,15 @@ const techStack = {
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      progressPercentage: "70%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Backend",
-      progressPercentage: "70%"
+      progressPercentage: "75%"
     },
     {
       Stack: "Programming",
-      progressPercentage: "60%"
+      progressPercentage: "85%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -158,28 +160,18 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      company: "Infrrd",
+      companylogo: infLogo,
       date: "June 2018 – Present",
       desc:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
       role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      company: "Infrrd",
+      companylogo: infLogo,
       date: "Jan 2015 – Sep 2015",
       desc:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -198,28 +190,52 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Projects",
+  // subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
+      
+      projectName: "Twitter Clone",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "See Project",
+          url: "https://github.com/Madhura-b/Twitter-Engine"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      // image: twitterLogo,
+      projectName: "Twitter Clone",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "See Project",
+          url: "https://github.com/Madhura-b/Twitter-Engine"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      // image: twitterLogo,
+      projectName: "Twitter Clone",
+      projectDesc: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit","Lorem ipsum dolor sit amet, consectetur adipiscing elit"],
+      footerLink: [
+        {
+          name: "See Project",
+          url: "https://github.com/Madhura-b/Twitter-Engine"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      // image: require("./assets/images/nextuLogo.webp"),
       projectName: "Nextu",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
-          name: "Visit Website",
+          name: "See Project",
           url: "http://nextu.se/"
         }
       ]
