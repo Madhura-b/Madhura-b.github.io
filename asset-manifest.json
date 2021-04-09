@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.a380740c.chunk.css",
-    "main.js": "/static/js/main.7a2a922d.chunk.js",
-    "main.js.map": "/static/js/main.7a2a922d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e22bb6ee.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e22bb6ee.js.map",
-    "static/js/2.23bbec7a.chunk.js": "/static/js/2.23bbec7a.chunk.js",
-    "static/js/2.23bbec7a.chunk.js.map": "/static/js/2.23bbec7a.chunk.js.map",
+    "main.js": "/static/js/main.233f9b69.chunk.js",
+    "main.js.map": "/static/js/main.233f9b69.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7ab95389.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7ab95389.js.map",
+    "static/js/2.9fc60ca8.chunk.js": "/static/js/2.9fc60ca8.chunk.js",
+    "static/js/2.9fc60ca8.chunk.js.map": "/static/js/2.9fc60ca8.chunk.js.map",
     "static/css/3.f01de962.chunk.css": "/static/css/3.f01de962.chunk.css",
-    "static/js/3.497d4f8d.chunk.js": "/static/js/3.497d4f8d.chunk.js",
-    "static/js/3.497d4f8d.chunk.js.map": "/static/js/3.497d4f8d.chunk.js.map",
+    "static/js/3.ffc58081.chunk.js": "/static/js/3.ffc58081.chunk.js",
+    "static/js/3.ffc58081.chunk.js.map": "/static/js/3.ffc58081.chunk.js.map",
     "static/css/4.c8ea90b0.chunk.css": "/static/css/4.c8ea90b0.chunk.css",
-    "static/js/4.5c6bbd0f.chunk.js": "/static/js/4.5c6bbd0f.chunk.js",
-    "static/js/4.5c6bbd0f.chunk.js.map": "/static/js/4.5c6bbd0f.chunk.js.map",
+    "static/js/4.2829acf8.chunk.js": "/static/js/4.2829acf8.chunk.js",
+    "static/js/4.2829acf8.chunk.js.map": "/static/js/4.2829acf8.chunk.js.map",
     "index.html": "/index.html",
     "static/css/3.f01de962.chunk.css.map": "/static/css/3.f01de962.chunk.css.map",
     "static/css/4.c8ea90b0.chunk.css.map": "/static/css/4.c8ea90b0.chunk.css.map",
     "static/css/main.a380740c.chunk.css.map": "/static/css/main.a380740c.chunk.css.map",
-    "static/js/2.23bbec7a.chunk.js.LICENSE.txt": "/static/js/2.23bbec7a.chunk.js.LICENSE.txt",
+    "static/js/2.9fc60ca8.chunk.js.LICENSE.txt": "/static/js/2.9fc60ca8.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.3cd78665.ttf",
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.e8497507.png",
     "static/media/codeInLogo.webp": "/static/media/codeInLogo.e41a71d5.webp",
@@ -25,19 +25,18 @@
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445ca.svg",
     "static/media/facebookLogo.png": "/static/media/facebookLogo.f46d68b2.png",
     "static/media/googleAssistantLogo.webp": "/static/media/googleAssistantLogo.f720c716.webp",
-    "static/media/harvardLogo.png": "/static/media/harvardLogo.542dab89.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb2.svg",
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.e033dbfa.webp",
     "static/media/pwaLogo.webp": "/static/media/pwaLogo.8bf2293d.webp",
     "static/media/quoraLogo.png": "/static/media/quoraLogo.85eb29f4.png",
     "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.60b27d1f.webp",
     "static/media/skill.svg": "/static/media/skill.35a14766.svg",
-    "static/media/stanfordLogo.png": "/static/media/stanfordLogo.5a8e3a0a.png"
+    "static/media/vtu.f7938351.jpg": "/static/media/vtu.f7938351.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e22bb6ee.js",
-    "static/js/2.23bbec7a.chunk.js",
+    "static/js/runtime-main.7ab95389.js",
+    "static/js/2.9fc60ca8.chunk.js",
     "static/css/main.a380740c.chunk.css",
-    "static/js/main.7a2a922d.chunk.js"
+    "static/js/main.233f9b69.chunk.js"
   ]
 }
