@@ -7,4 +7,9 @@ src/containers/projects/Projects.js
 src/components/experienceCard/ExperienceCard.css
 src/containers/StartupProjects/StartupProjects.css
 src/containers/workExperience/WorkExperience.css
+src/components/achievementCard/AchievementCard.css
+src/components/githubProfileCard/GithubProfileCard.css
+src/components/githubProfileCard/GithubProfileCard.js
+src/containers/achievement/Achievement.css
+src/containers/greeting/Greeting.css
 
