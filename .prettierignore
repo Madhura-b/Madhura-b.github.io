@@ -4,4 +4,7 @@ src/assets/lottie
 src/portfolio.js
 src/components/header/Header.css
 src/containers/projects/Projects.js
+src/components/experienceCard/ExperienceCard.css
+src/containers/StartupProjects/StartupProjects.css
+src/containers/workExperience/WorkExperience.css
 
