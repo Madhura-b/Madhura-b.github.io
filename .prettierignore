@@ -15,4 +15,5 @@ src/containers/greeting/Greeting.css
 src/components/blogCard/BlogCard.js
 src/components/talkCard/TalkCard.js
 src/containers/Main.js
+src/containers/skills/Skills.css
 

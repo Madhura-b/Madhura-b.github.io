@@ -44,11 +44,15 @@ function Header() {
               <a href="#skills">Skills</a>
             </li>
           )}
+          <li>
+            <a href="#blogs">Projects</a>
+          </li>
           {viewExperience && (
             <li>
-              <a href="#experience">Work Experiences</a>
+              <a href="#experience">Work Experience</a>
             </li>
           )}
+         
           {/* {viewOpenSource && (
             <li>
               <a href="#opensource">Open Source</a>
@@ -69,9 +73,7 @@ function Header() {
               <a href="#talks">Talks</a>
             </li>
           )} */}
-          <li>
-            <a href="#blogs">Projects</a>
-          </li>
+         
           {/* <li>
             <a href="#">
               <ToggleSwitch />
