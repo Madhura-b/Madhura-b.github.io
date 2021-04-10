@@ -22,7 +22,7 @@ const greeting = {
     "I'm Madhura, a passionate Full Stack Software Developer. Creative expression is what lights me up. I am seasoned in designing Web applications with JavaScript / Reactjs / Nodejs / .NET / C# and few other frameworks with a focus on crafting elegant exceptional digital experiences."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1CXqq7iOe_tju7_XxSUB5gj35BK3ELmui/view?usp=sharing",
+    "https://drive.google.com/file/d/1oj8GrBV-yR5es7kmqiisBvwXF2YtFjI7/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
