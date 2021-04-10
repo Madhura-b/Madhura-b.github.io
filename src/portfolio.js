@@ -19,7 +19,7 @@ const greeting = {
   username: "Madhura Basavaraju",
   title: "Who I am",
   subTitle: (
-    "I'm Madhura, a passionate Full Stack Software Developer. Seasoned in designing Web applications with JavaScript / Reactjs / Nodejs / .NET / C# and some other frameworks with a focus on crafting elegant and user-friendly experiences."
+    "I'm Madhura, a passionate Full Stack Software Developer. Creative expression is what lights me up. I am seasoned in designing Web applications with JavaScript / Reactjs / Nodejs / .NET / C# and few other frameworks with a focus on crafting elegant exceptional digital experiences."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1CXqq7iOe_tju7_XxSUB5gj35BK3ELmui/view?usp=sharing",
@@ -44,14 +44,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "FULL STACK DEVELOPER INTERESTED IN EXPLORING THE ENTIRE SPECTRUM OF WEB APP DEVELOPMENT",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Create highly interactive web applications using best practices in a variety of different languages, platforms and frameworks."
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡Few technologies I have been working with recently include JavaScript, React, Node.js, Java, .Net, C#, SQL, MongoDB."),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Integration of third party services such as Docker/ Kuberenetes / AWS. "
     )
   ],
 
@@ -119,9 +119,9 @@ const educationInfo = {
       // logo:require("./assets/images/uflLogo.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "August 2019 - May 2021",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: " Awarded the Academic Achievement Award Scholarship",
       descBullets: [
-        "Relevant Courses: Advanced Data Structures, Analysis of Algorithms, Distributed Operating Systems, Machine Learning,Neural Networks, Programming Language Principles"]
+        "Relevant Courses: Advanced Data Structures, Analysis of Algorithms, Distributed Operating Systems, Machine Learning,Neural Networks, Programming Language Principles."]
     },
     {
       schoolName: "Visvesvaraya Technological University",
@@ -129,8 +129,8 @@ const educationInfo = {
       subHeader: "Bachelor of Science in Computer Science",
       duration: "August 2014 - July 2018",
       desc:
-        "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Relevant Courses: Data Structures, Object Oriented Programming, Database Management System, Programming the Web,Unix and Shell Programming"]
+        "Ranked top 15% in the program.",
+      descBullets: ["Relevant Courses: Data Structures, Object Oriented Programming, Database Management System, Programming the Web, Unix and Shell Programming"]
     }
   ]
 };
@@ -163,13 +163,13 @@ const workExperiences = {
   experience: [
     
     {
-      role: "Software Engineer Intern",
+      role: "Software Engineer",
       company: "Infrrd",
       companylogo: infLogo,
-      date: "Jan 2015 – Sep 2015",
+      date: "Aug 2018 2015 – May 2019",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit","Point 3","point 4"
+        "Worked in an Agile environment to build RESTful Web APIs on .NET framework to fetch organizational data from end points. Interfaced with an external SQL Server.",
+        "Developed and maintained code for in-house websites primarily through Model-view-controller(MVC) paradigm of designing web applications. Implemented data access layer using Entity Framework Code First approach.","Played a prominent role in developing test cases. Analyzed and deployed fixes to various product issues."
       ]
     }
   ]
@@ -186,7 +186,7 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Projects",
+  title: "Some Things I've Built",
   // subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
@@ -301,37 +301,37 @@ const achievementSection = {
 //Blogs Section
 
 const blogSection = {
-  title: "Projects",
+  title: "Some Things I've Built",
   subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+    "Trying to push the outer bounds of creative comfort zone.",
 
   blogs: [
     {
       url:
-        "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+        "https://github.com/Madhura-b/Twitter-Engine",
+      title: "Twitter Clone",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "A Twitter-like platform to tweet, subscribe to followers, get tagged, activate live reloading of news feed and more. Achieved simulation of over 1000 independent clients and a server."
     },
     {
       url:
-        "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+        "https://github.com/Madhura-b/Compiler-Design",
+      title: " A Compiler",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?,Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?,Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "A compiler for a custom programming language built from scratch. Procure the java byte code and run on any machine with a JVM. 95% testing success rate."
     },
     {
       url:
-        "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+        "https://github.com/Madhura-b/Social-Media-MERN",
+      title: "Social Media - Memories",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "A web app for visualizing and posting special events of life. Developed and maintained using JavaScript, React, MongoDB, Node.js."
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
+      url: "https://github.com/Madhura-b/Job-Scheduling",
+      title: "Task Manager",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "A system that stores a large number of records for easy retrieval. Implemented a scheduling algorithm to provide the most cost-eective way of performing operations on these records. "
     }
   ],
   display: true // Set false to hide this section, defaults to true
